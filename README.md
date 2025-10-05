@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sadegh-yaghoubi-aa473b196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="background:#0A66C2; border-radius:5px; padding:5px;"/>
 </a>
-  <a href="mailto:sadeghyaghoubi1995@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:sadegh.yaghoubi1995@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
 </p>
